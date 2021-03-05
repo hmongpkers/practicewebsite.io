@@ -11,7 +11,7 @@
 </h1></center>
 
 <h2>Self Introduction:</h2>
-<center><img src="https://mtcss.co.uk/wp-content/uploads/2017/01/Server-Room.jpg" style="width:240px;height:240px;"></center>
+<center><img src="https://images.idgesg.net/images/article/2018/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large.jpg" style="width:240px;height:240px;"></center>
 
 <p>    Hello person who is reading this website, my name is Charlie Vue and I am a computer science major and I will be graduating in Spring 2021. My career goal is to work somewhere in Software Development or Database Management. My hobbies are reading web novels, watching anime, and playing games. My email is <b>charlievue@csus.edu.</b>
 
